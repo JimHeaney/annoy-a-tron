@@ -7,6 +7,9 @@ The circuit works by reading a random audio file from the SD card, and playing i
 
 The circuit can be powered with a LiPo battery, or with USB-C. When plugged in, the board also charges the attached LiPo battery.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/annoy-a-tron.html).
+
 ## Current Release
 Version 1.1
 
